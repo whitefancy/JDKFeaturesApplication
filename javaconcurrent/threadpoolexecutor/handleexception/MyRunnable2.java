@@ -1,4 +1,4 @@
-package javaconcurrent.threadpoolexecutor.handleexception;
+package JDKFeaturesApplication.javaconcurrent.threadpoolexecutor.handleexception;
 
 public class MyRunnable2 implements Runnable {
     @Override

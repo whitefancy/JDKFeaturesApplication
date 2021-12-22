@@ -1,4 +1,4 @@
-package JavaBasics;
+package JDKFeaturesApplication.JavaBasics;
 
 public class StringBuilder1 {
 //    为什么会出现那么多比较String和StringBuffer的文章？

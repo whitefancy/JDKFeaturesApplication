@@ -1,4 +1,4 @@
-package javaconcurrent.threadpoolexecutor.shutdown;
+package JDKFeaturesApplication.javaconcurrent.threadpoolexecutor.shutdown;
 
 import java.util.concurrent.LinkedBlockingDeque;
 import java.util.concurrent.ThreadPoolExecutor;

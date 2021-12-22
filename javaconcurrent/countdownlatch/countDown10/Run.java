@@ -1,4 +1,4 @@
-package javaconcurrent.countdownlatch.countDown10;
+package JDKFeaturesApplication.javaconcurrent.countdownlatch.countDown10;
 
 import java.util.concurrent.CountDownLatch;
 

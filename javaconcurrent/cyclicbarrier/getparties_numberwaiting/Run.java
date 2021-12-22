@@ -1,4 +1,4 @@
-package javaconcurrent.cyclicbarrier.getparties_numberwaiting;
+package JDKFeaturesApplication.javaconcurrent.cyclicbarrier.getparties_numberwaiting;
 
 public class Run {
     public static void main(String[] args) throws InterruptedException {

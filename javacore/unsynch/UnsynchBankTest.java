@@ -1,4 +1,4 @@
-package javacore.unsynch;
+package JDKFeaturesApplication.javacore.unsynch;
 
 public class UnsynchBankTest {
     public static final int NACCOUNTS = 100;

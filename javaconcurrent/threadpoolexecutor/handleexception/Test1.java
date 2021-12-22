@@ -1,4 +1,4 @@
-package javaconcurrent.threadpoolexecutor.handleexception;
+package JDKFeaturesApplication.javaconcurrent.threadpoolexecutor.handleexception;
 
 import java.util.concurrent.LinkedBlockingDeque;
 import java.util.concurrent.ThreadPoolExecutor;

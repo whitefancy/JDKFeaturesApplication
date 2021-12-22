@@ -1,4 +1,4 @@
-package javaconcurrent.countdownlatch.countdownwaitstart;
+package JDKFeaturesApplication.javaconcurrent.countdownlatch.countdownwaitstart;
 
 import java.util.concurrent.CountDownLatch;
 

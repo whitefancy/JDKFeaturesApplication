@@ -1,6 +1,4 @@
-package javaconcurrent.threadpoolexecutor.RejectedExecutionHandler;
-
-import javaconcurrent.exchanger.blocked.Run;
+package JDKFeaturesApplication.javaconcurrent.threadpoolexecutor.RejectedExecutionHandler;
 
 import java.util.concurrent.SynchronousQueue;
 import java.util.concurrent.ThreadPoolExecutor;

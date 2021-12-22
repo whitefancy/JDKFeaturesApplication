@@ -1,4 +1,4 @@
-package javaconcurrent.threadpoolexecutor.isterminating;
+package JDKFeaturesApplication.javaconcurrent.threadpoolexecutor.isterminating;
 
 import java.util.concurrent.LinkedBlockingDeque;
 import java.util.concurrent.ThreadPoolExecutor;

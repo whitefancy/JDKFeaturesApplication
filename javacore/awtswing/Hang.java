@@ -1,4 +1,4 @@
-package javacore.awtswing;
+package JDKFeaturesApplication.javacore.awtswing;
 
 import javax.swing.*;
 import java.awt.*;

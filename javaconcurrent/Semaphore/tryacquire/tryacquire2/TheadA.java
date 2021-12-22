@@ -1,4 +1,4 @@
-package javaconcurrent.Semaphore.tryacquire.tryacquire2;
+package JDKFeaturesApplication.javaconcurrent.Semaphore.tryacquire.tryacquire2;
 
 public class TheadA extends Thread {
     private Service service;

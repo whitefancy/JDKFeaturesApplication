@@ -1,4 +1,4 @@
-package javaconcurrent.exchanger.exchange_timeout;
+package JDKFeaturesApplication.javaconcurrent.exchanger.exchange_timeout;
 
 import java.util.concurrent.Exchanger;
 

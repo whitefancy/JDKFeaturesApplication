@@ -1,4 +1,4 @@
-package javaconcurrent.threadpoolexecutor.awaitTermination;
+package JDKFeaturesApplication.javaconcurrent.threadpoolexecutor.awaitTermination;
 
 import java.util.concurrent.LinkedBlockingDeque;
 import java.util.concurrent.ThreadPoolExecutor;

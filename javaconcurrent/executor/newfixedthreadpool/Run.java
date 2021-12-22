@@ -1,6 +1,6 @@
-package javaconcurrent.executor.newfixedthreadpool;
+package JDKFeaturesApplication.javaconcurrent.executor.newfixedthreadpool;
 
-import javaconcurrent.executor.newcachedthreadpool.MyRunnable;
+import JDKFeaturesApplication.javaconcurrent.executor.newcachedthreadpool.MyRunnable;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;

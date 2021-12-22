@@ -1,4 +1,4 @@
-package javacore;
+package JDKFeaturesApplication.javacore;
 
 import java.util.concurrent.ForkJoinPool;
 import java.util.concurrent.RecursiveTask;

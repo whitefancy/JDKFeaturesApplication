@@ -1,4 +1,4 @@
-package javacore;
+package JDKFeaturesApplication.javacore;
 
 //文件名必须与public类的名字相匹配
 // 在一个源文件里，只能有一个公有类，可以有任意数目的非公有类

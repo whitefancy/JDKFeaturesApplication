@@ -1,4 +1,4 @@
-package javaconcurrent.Semaphore.multi_in_single_handle_multi_out;
+package JDKFeaturesApplication.javaconcurrent.Semaphore.multi_in_single_handle_multi_out;
 
 import java.util.concurrent.Semaphore;
 import java.util.concurrent.locks.ReentrantLock;

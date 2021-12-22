@@ -1,4 +1,4 @@
-package javaconcurrent.threadpoolexecutor.isterminating;
+package JDKFeaturesApplication.javaconcurrent.threadpoolexecutor.isterminating;
 
 public class MyRunnable implements Runnable {
     @Override

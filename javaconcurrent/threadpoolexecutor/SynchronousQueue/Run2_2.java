@@ -1,4 +1,4 @@
-package javaconcurrent.threadpoolexecutor.SynchronousQueue;
+package JDKFeaturesApplication.javaconcurrent.threadpoolexecutor.SynchronousQueue;
 
 import java.util.concurrent.SynchronousQueue;
 import java.util.concurrent.ThreadPoolExecutor;

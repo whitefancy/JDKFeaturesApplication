@@ -1,4 +1,4 @@
-package javaconcurrent.Phaser.onadvance;
+package JDKFeaturesApplication.javaconcurrent.Phaser.onadvance;
 
 public class TheadB extends Thread {
     private Service service;

@@ -1,4 +1,4 @@
-package javaconcurrent.Semaphore.multi_producers_multi_consumers;
+package JDKFeaturesApplication.javaconcurrent.Semaphore.multi_producers_multi_consumers;
 
 /*
 生产者线程

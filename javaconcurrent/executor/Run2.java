@@ -1,4 +1,4 @@
-package javaconcurrent.executor;
+package JDKFeaturesApplication.javaconcurrent.executor;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;

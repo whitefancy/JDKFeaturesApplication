@@ -1,4 +1,4 @@
-package javaconcurrent.cyclicbarrier.reset;
+package JDKFeaturesApplication.javaconcurrent.cyclicbarrier.reset;
 
 public class Run {
     public static void main(String[] args) throws InterruptedException {

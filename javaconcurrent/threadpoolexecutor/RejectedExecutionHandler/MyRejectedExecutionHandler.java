@@ -1,4 +1,4 @@
-package javaconcurrent.threadpoolexecutor.RejectedExecutionHandler;
+package JDKFeaturesApplication.javaconcurrent.threadpoolexecutor.RejectedExecutionHandler;
 
 import java.util.concurrent.RejectedExecutionHandler;
 import java.util.concurrent.ThreadPoolExecutor;

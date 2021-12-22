@@ -1,6 +1,4 @@
-package javaconcurrent.threadpoolexecutor.rejectPolicy;
-
-import javaconcurrent.exchanger.blocked.Run;
+package JDKFeaturesApplication.javaconcurrent.threadpoolexecutor.rejectPolicy;
 
 import java.util.concurrent.ArrayBlockingQueue;
 import java.util.concurrent.ThreadPoolExecutor;

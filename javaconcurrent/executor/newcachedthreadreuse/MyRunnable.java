@@ -1,4 +1,4 @@
-package javaconcurrent.executor.newcachedthreadreuse;
+package JDKFeaturesApplication.javaconcurrent.executor.newcachedthreadreuse;
 
 public class MyRunnable implements Runnable {
     private String username;

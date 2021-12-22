@@ -1,4 +1,4 @@
-package javaconcurrent.threadpoolexecutor.queuediffmaximum;
+package JDKFeaturesApplication.javaconcurrent.threadpoolexecutor.queuediffmaximum;
 
 public class MyRunnable implements Runnable {
     @Override

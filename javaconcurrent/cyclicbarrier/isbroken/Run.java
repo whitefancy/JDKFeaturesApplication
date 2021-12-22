@@ -1,4 +1,4 @@
-package javaconcurrent.cyclicbarrier.isbroken;
+package JDKFeaturesApplication.javaconcurrent.cyclicbarrier.isbroken;
 
 import java.util.concurrent.CyclicBarrier;
 

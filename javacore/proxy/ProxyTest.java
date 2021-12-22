@@ -1,4 +1,4 @@
-package javacore.proxy;
+package JDKFeaturesApplication.javacore.proxy;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;

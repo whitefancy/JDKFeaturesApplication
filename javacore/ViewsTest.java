@@ -1,6 +1,6 @@
-package javacore;
+package JDKFeaturesApplication.javacore;
 
-import JavaBasics.Person;
+import JDKFeaturesApplication.JavaBasics.Person;
 
 import java.util.*;
 

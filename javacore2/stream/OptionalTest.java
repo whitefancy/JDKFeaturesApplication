@@ -1,4 +1,4 @@
-package javacore2.stream;
+package JDKFeaturesApplication.javacore2.stream;
 
 import java.io.IOException;
 import java.nio.charset.StandardCharsets;
@@ -6,7 +6,6 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.*;
 import java.util.stream.Collectors;
-import java.util.stream.Stream;
 
 /**
  * Optional<T>被当做一种更加安全的方式，来替代对<T>的引用

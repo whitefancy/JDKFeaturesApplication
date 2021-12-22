@@ -1,4 +1,4 @@
-package javaconcurrent.threadpoolexecutor.coreThreadTimeout;
+package JDKFeaturesApplication.javaconcurrent.threadpoolexecutor.coreThreadTimeout;
 
 public class MyRunnable implements Runnable {
     @Override

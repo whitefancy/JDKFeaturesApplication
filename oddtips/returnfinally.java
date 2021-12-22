@@ -1,4 +1,4 @@
-package oddtips;
+package JDKFeaturesApplication.oddtips;
 
 /**
  *

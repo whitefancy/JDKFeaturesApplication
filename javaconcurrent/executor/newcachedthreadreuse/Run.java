@@ -1,4 +1,4 @@
-package javaconcurrent.executor.newcachedthreadreuse;
+package JDKFeaturesApplication.javaconcurrent.executor.newcachedthreadreuse;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;

@@ -1,4 +1,4 @@
-package javaconcurrent.cyclicbarrier.reset;
+package JDKFeaturesApplication.javaconcurrent.cyclicbarrier.reset;
 
 public class TheadA extends Thread {
     private Service service;

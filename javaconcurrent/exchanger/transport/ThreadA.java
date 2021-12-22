@@ -1,4 +1,4 @@
-package javaconcurrent.exchanger.transport;
+package JDKFeaturesApplication.javaconcurrent.exchanger.transport;
 
 import java.util.concurrent.Exchanger;
 

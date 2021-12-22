@@ -1,4 +1,4 @@
-package javaconcurrent.Phaser.arrive;
+package JDKFeaturesApplication.javaconcurrent.Phaser.arrive;
 
 
 import java.util.concurrent.Phaser;

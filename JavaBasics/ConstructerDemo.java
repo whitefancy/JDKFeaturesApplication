@@ -1,4 +1,4 @@
-package JavaBasics;
+package JDKFeaturesApplication.JavaBasics;
 
 /*
 如果继承了父类，在构造子类时，会调用父类的默认构造方法（无参数）

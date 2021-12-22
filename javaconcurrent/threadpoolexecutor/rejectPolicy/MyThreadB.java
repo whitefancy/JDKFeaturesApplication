@@ -1,4 +1,4 @@
-package javaconcurrent.threadpoolexecutor.rejectPolicy;
+package JDKFeaturesApplication.javaconcurrent.threadpoolexecutor.rejectPolicy;
 
 public class MyThreadB extends Thread {
     @Override

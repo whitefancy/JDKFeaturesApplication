@@ -1,4 +1,4 @@
-package javaconcurrent.cyclicbarrier.isbroken;
+package JDKFeaturesApplication.javaconcurrent.cyclicbarrier.isbroken;
 
 public class MyThread extends Thread {
     private MyService service;

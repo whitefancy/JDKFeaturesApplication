@@ -1,4 +1,4 @@
-package javaconcurrent.Phaser.arriveandderegister;
+package JDKFeaturesApplication.javaconcurrent.Phaser.arriveandderegister;
 
 import java.util.concurrent.Phaser;
 

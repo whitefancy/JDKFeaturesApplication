@@ -1,4 +1,4 @@
-package javaconcurrent.Phaser.awaitadvanceinterruptiblytimeout;
+package JDKFeaturesApplication.javaconcurrent.Phaser.awaitadvanceinterruptiblytimeout;
 
 import java.util.concurrent.Phaser;
 import java.util.concurrent.TimeUnit;

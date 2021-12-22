@@ -1,4 +1,4 @@
-package javaconcurrent.countdownlatch.countdownwaitstart;
+package JDKFeaturesApplication.javaconcurrent.countdownlatch.countdownwaitstart;
 
 public class Run {
     public static void main(String[] args) throws InterruptedException {

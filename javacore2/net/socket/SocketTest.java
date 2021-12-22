@@ -1,10 +1,8 @@
-package javacore2.net.socket;
+package JDKFeaturesApplication.javacore2.net.socket;
 
 import java.io.IOException;
-import java.net.InetAddress;
 import java.net.Socket;
 import java.net.UnknownHostException;
-import java.util.Arrays;
 import java.util.Scanner;
 
 /**

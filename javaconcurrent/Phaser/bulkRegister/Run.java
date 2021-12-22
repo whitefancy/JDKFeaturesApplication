@@ -1,4 +1,4 @@
-package javaconcurrent.Phaser.bulkRegister;
+package JDKFeaturesApplication.javaconcurrent.Phaser.bulkRegister;
 
 
 import java.util.concurrent.Phaser;

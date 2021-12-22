@@ -1,4 +1,4 @@
-package javaconcurrent.cyclicbarrier.await_timeout;
+package JDKFeaturesApplication.javaconcurrent.cyclicbarrier.await_timeout;
 
 public class Run {
     public static void main(String[] args) throws InterruptedException {

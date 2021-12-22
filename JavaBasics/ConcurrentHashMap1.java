@@ -1,4 +1,4 @@
-package JavaBasics;
+package JDKFeaturesApplication.JavaBasics;
 
 import java.util.Collections;
 import java.util.HashMap;
@@ -60,5 +60,7 @@ public class ConcurrentHashMap1 {
         System.out.println("For " + map.getClass() + " the average time is " + avgTime / 5 + " ms\n");
     }
 
-
+    public static void main(String[] args) {
+        new ConcurrentHashMap1().performanceTest();
+    }
 }

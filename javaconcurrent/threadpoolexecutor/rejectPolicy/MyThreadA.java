@@ -1,4 +1,4 @@
-package javaconcurrent.threadpoolexecutor.rejectPolicy;
+package JDKFeaturesApplication.javaconcurrent.threadpoolexecutor.rejectPolicy;
 
 import java.util.concurrent.LinkedBlockingDeque;
 import java.util.concurrent.ThreadPoolExecutor;

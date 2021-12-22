@@ -1,4 +1,4 @@
-package javacore2.classloader;
+package JDKFeaturesApplication.javacore2.classloader;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;

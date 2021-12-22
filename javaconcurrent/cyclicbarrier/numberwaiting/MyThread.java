@@ -1,4 +1,4 @@
-package javaconcurrent.cyclicbarrier.numberwaiting;
+package JDKFeaturesApplication.javaconcurrent.cyclicbarrier.numberwaiting;
 
 import java.util.concurrent.BrokenBarrierException;
 import java.util.concurrent.CyclicBarrier;

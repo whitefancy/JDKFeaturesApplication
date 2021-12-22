@@ -1,4 +1,4 @@
-package javaconcurrent.Semaphore.semaphorefair;
+package JDKFeaturesApplication.javaconcurrent.Semaphore.semaphorefair;
 
 import java.util.concurrent.Semaphore;
 

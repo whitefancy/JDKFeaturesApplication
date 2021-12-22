@@ -1,4 +1,4 @@
-package javaconcurrent.Semaphore.permits1;
+package JDKFeaturesApplication.javaconcurrent.Semaphore.permits1;
 
 public class TheadA extends Thread {
     private Service service;

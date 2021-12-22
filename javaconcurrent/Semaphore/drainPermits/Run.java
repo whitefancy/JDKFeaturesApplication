@@ -1,4 +1,4 @@
-package javaconcurrent.Semaphore.drainPermits;
+package JDKFeaturesApplication.javaconcurrent.Semaphore.drainPermits;
 
 
 public class Run {

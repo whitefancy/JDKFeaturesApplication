@@ -1,4 +1,4 @@
-package javaconcurrent.executor.newfixedthreadpool;
+package JDKFeaturesApplication.javaconcurrent.executor.newfixedthreadpool;
 
 public class MyRunnable implements Runnable {
     private String username;

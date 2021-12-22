@@ -1,4 +1,4 @@
-package javaconcurrent.countdownlatch.rungame;
+package JDKFeaturesApplication.javaconcurrent.countdownlatch.rungame;
 
 import java.util.concurrent.CountDownLatch;
 

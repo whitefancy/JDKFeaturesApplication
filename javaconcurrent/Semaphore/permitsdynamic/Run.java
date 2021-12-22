@@ -1,4 +1,4 @@
-package javaconcurrent.Semaphore.permitsdynamic;
+package JDKFeaturesApplication.javaconcurrent.Semaphore.permitsdynamic;
 
 public class Run {
     public static void main(String[] args) {

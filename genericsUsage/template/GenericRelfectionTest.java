@@ -1,4 +1,4 @@
-package javacore.template;
+package JDKFeaturesApplication.genericsUsage.template;
 
 import java.lang.reflect.*;
 import java.util.Arrays;

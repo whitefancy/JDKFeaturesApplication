@@ -1,4 +1,4 @@
-package JavaBasics;
+package JDKFeaturesApplication.JavaBasics;
 
 public class JoinThread extends Thread {
     // 有参数的构造器，设置线程名字

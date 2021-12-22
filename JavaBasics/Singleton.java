@@ -1,4 +1,4 @@
-package JavaBasics;
+package JDKFeaturesApplication.JavaBasics;
 
 public class Singleton {
     // 对于数据库引擎访问， 假脱机打印设备 只用一个对象可能更好

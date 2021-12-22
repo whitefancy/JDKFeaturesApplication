@@ -1,4 +1,4 @@
-package javaconcurrent.Semaphore.semaphorefair.unfair;
+package JDKFeaturesApplication.javaconcurrent.Semaphore.semaphorefair.unfair;
 
 
 public class MyThead extends Thread {

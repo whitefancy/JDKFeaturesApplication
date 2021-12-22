@@ -1,4 +1,4 @@
-package javaconcurrent.Semaphore.semaphore_string_pool;
+package JDKFeaturesApplication.javaconcurrent.Semaphore.semaphore_string_pool;
 
 public class Run {
     public static void main(String[] args) {

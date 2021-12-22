@@ -1,4 +1,4 @@
-package javacore.template;
+package JDKFeaturesApplication.genericsUsage.template;
 
 public class Pair<T> {
     T first;

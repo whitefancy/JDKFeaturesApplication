@@ -1,4 +1,4 @@
-package javaconcurrent.Semaphore.permitsdynamic;
+package JDKFeaturesApplication.javaconcurrent.Semaphore.permitsdynamic;
 
 import java.util.concurrent.Semaphore;
 

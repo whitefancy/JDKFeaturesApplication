@@ -1,4 +1,4 @@
-package javaconcurrent.Phaser.arriveandawaitadvanceblock;
+package JDKFeaturesApplication.javaconcurrent.Phaser.arriveandawaitadvanceblock;
 
 import java.util.concurrent.Phaser;
 

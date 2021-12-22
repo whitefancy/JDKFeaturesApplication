@@ -1,4 +1,4 @@
-package javacore.bounce;
+package JDKFeaturesApplication.javacore.bounce;
 
 import javax.swing.*;
 import java.awt.*;

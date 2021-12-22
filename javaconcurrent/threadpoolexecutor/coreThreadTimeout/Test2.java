@@ -1,4 +1,4 @@
-package javaconcurrent.threadpoolexecutor.coreThreadTimeout;
+package JDKFeaturesApplication.javaconcurrent.threadpoolexecutor.coreThreadTimeout;
 
 import java.util.concurrent.SynchronousQueue;
 import java.util.concurrent.ThreadPoolExecutor;

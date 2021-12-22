@@ -1,7 +1,4 @@
-package javacore;
-
-import java.util.concurrent.locks.Lock;
-import java.util.concurrent.locks.ReentrantReadWriteLock;
+package JDKFeaturesApplication.javacore;
 
 /**
  * 同时可以运行多个线程的程序 称为多线程程序 multithreaded

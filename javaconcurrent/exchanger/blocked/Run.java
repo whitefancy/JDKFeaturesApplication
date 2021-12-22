@@ -1,4 +1,4 @@
-package javaconcurrent.exchanger.blocked;
+package JDKFeaturesApplication.javaconcurrent.exchanger.blocked;
 
 import java.util.concurrent.Exchanger;
 

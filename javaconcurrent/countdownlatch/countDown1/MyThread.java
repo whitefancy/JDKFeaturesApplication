@@ -1,4 +1,4 @@
-package javaconcurrent.countdownlatch.countDown1;
+package JDKFeaturesApplication.javaconcurrent.countdownlatch.countDown1;
 
 public class MyThread extends Thread {
     private MyService myService;

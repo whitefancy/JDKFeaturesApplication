@@ -1,4 +1,4 @@
-package javacore2.net.inetaddress;
+package JDKFeaturesApplication.javacore2.net.inetaddress;
 
 import java.net.InetAddress;
 import java.net.UnknownHostException;

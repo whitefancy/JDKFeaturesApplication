@@ -1,4 +1,4 @@
-package javaconcurrent.threadpoolexecutor.RejectedExecutionHandler;
+package JDKFeaturesApplication.javaconcurrent.threadpoolexecutor.RejectedExecutionHandler;
 
 public class MyRunnable1 implements Runnable {
     private String username;

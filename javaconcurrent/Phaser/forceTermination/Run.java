@@ -1,4 +1,4 @@
-package javaconcurrent.Phaser.forceTermination;
+package JDKFeaturesApplication.javaconcurrent.Phaser.forceTermination;
 
 import java.util.concurrent.Phaser;
 

@@ -1,4 +1,4 @@
-package javacore;
+package JDKFeaturesApplication.javacore;
 
 import java.time.DayOfWeek;
 import java.time.LocalDate;

@@ -1,4 +1,4 @@
-package javaconcurrent.Phaser.register_getregisteredparties;
+package JDKFeaturesApplication.javaconcurrent.Phaser.register_getregisteredparties;
 
 
 import java.util.concurrent.Phaser;

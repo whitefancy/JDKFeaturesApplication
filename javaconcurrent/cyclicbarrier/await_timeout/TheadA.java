@@ -1,4 +1,4 @@
-package javaconcurrent.cyclicbarrier.await_timeout;
+package JDKFeaturesApplication.javaconcurrent.cyclicbarrier.await_timeout;
 
 public class TheadA extends Thread {
     private Service service;

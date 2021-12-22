@@ -1,4 +1,4 @@
-package javaconcurrent.threadpoolexecutor.LinkedBlockingDeque;
+package JDKFeaturesApplication.javaconcurrent.threadpoolexecutor.LinkedBlockingDeque;
 
 import java.util.concurrent.LinkedBlockingDeque;
 import java.util.concurrent.ThreadPoolExecutor;

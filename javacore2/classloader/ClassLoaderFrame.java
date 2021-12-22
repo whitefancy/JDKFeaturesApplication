@@ -1,10 +1,8 @@
-package javacore2.classloader;
+package JDKFeaturesApplication.javacore2.classloader;
 
 import javax.swing.*;
 import java.awt.*;
-import java.io.File;
 import java.io.IOException;
-import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 import java.nio.file.Files;
 import java.nio.file.Paths;
@@ -14,7 +12,7 @@ public class ClassLoaderFrame extends JFrame {
     private static final int DEFAULT_WIDTH = 300;
     private static final int DEFAULT_HEIGHT = 200;
     private JTextField keyField = new JTextField("4", 4);
-    private JTextField nameField = new JTextField("javacore2.classloader.Test1", 30);
+    private JTextField nameField = new JTextField("JDKFeaturesApplication.javacore2.classloader.Test1", 30);
 
     public ClassLoaderFrame() {
         setSize(ClassLoaderFrame.DEFAULT_WIDTH, ClassLoaderFrame.DEFAULT_HEIGHT);

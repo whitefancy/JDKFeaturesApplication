@@ -1,4 +1,4 @@
-package javaconcurrent.cyclicbarrier.await_timeout;
+package JDKFeaturesApplication.javaconcurrent.cyclicbarrier.await_timeout;
 
 import java.util.concurrent.BrokenBarrierException;
 import java.util.concurrent.CyclicBarrier;

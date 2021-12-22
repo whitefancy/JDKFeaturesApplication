@@ -1,4 +1,4 @@
-package javaconcurrent.Semaphore.semaphorefair.unfair;
+package JDKFeaturesApplication.javaconcurrent.Semaphore.semaphorefair.unfair;
 
 public class Run {
     public static void main(String[] args) {

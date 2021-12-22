@@ -1,4 +1,4 @@
-package javacore2.stream;
+package JDKFeaturesApplication.javacore2.stream;
 
 import java.io.IOException;
 import java.math.BigInteger;

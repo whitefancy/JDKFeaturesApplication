@@ -1,4 +1,4 @@
-package JavaBasics;
+package JDKFeaturesApplication.JavaBasics;
 
 import java.util.*;
 import java.util.stream.Collectors;

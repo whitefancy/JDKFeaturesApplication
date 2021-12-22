@@ -1,4 +1,4 @@
-package javacore;
+package JDKFeaturesApplication.javacore;
 
 import java.time.LocalDate;
 import java.util.Date;

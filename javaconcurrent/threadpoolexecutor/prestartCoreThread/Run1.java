@@ -1,4 +1,4 @@
-package javaconcurrent.threadpoolexecutor.prestartCoreThread;
+package JDKFeaturesApplication.javaconcurrent.threadpoolexecutor.prestartCoreThread;
 
 import java.util.concurrent.LinkedBlockingDeque;
 import java.util.concurrent.ThreadPoolExecutor;

@@ -1,4 +1,4 @@
-package javaconcurrent.executor.newfixedthreadpoolfactory;
+package JDKFeaturesApplication.javaconcurrent.executor.newfixedthreadpoolfactory;
 
 import java.util.concurrent.ThreadFactory;
 

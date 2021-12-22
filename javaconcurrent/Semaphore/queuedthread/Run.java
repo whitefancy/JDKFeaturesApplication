@@ -1,4 +1,4 @@
-package javaconcurrent.Semaphore.queuedthread;
+package JDKFeaturesApplication.javaconcurrent.Semaphore.queuedthread;
 
 public class Run {
     public static void main(String[] args) {

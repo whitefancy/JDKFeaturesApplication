@@ -1,4 +1,4 @@
-package javaconcurrent.threadpoolexecutor.shutdownnow;
+package JDKFeaturesApplication.javaconcurrent.threadpoolexecutor.shutdownnow;
 
 public class MyRunnable2 implements Runnable {
     @Override

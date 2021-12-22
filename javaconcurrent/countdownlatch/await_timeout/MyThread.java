@@ -1,4 +1,4 @@
-package javaconcurrent.countdownlatch.await_timeout;
+package JDKFeaturesApplication.javaconcurrent.countdownlatch.await_timeout;
 
 public class MyThread extends Thread {
     private MyService myService;

@@ -1,4 +1,4 @@
-package javaconcurrent.Semaphore.permits2;
+package JDKFeaturesApplication.javaconcurrent.Semaphore.permits2;
 
 import java.util.concurrent.Semaphore;
 

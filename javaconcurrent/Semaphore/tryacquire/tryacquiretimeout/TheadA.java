@@ -1,4 +1,4 @@
-package javaconcurrent.Semaphore.tryacquire.tryacquiretimeout;
+package JDKFeaturesApplication.javaconcurrent.Semaphore.tryacquire.tryacquiretimeout;
 
 public class TheadA extends Thread {
     private Service service;

@@ -1,4 +1,4 @@
-package javaconcurrent.Phaser.awaitadvanceinterruptibly;
+package JDKFeaturesApplication.javaconcurrent.Phaser.awaitadvanceinterruptibly;
 
 import java.util.concurrent.Phaser;
 

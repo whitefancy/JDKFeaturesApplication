@@ -1,4 +1,4 @@
-package javaconcurrent.Semaphore.tryacquire;
+package JDKFeaturesApplication.javaconcurrent.Semaphore.tryacquire;
 
 import java.util.concurrent.Semaphore;
 

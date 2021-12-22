@@ -1,4 +1,4 @@
-package JavaBasics;
+package JDKFeaturesApplication.JavaBasics;
 
 public class ObjectFunctions {
     public static void test() {
@@ -8,7 +8,7 @@ public class ObjectFunctions {
         Object o = s1;
         String s = o.toString();
         System.out.println(s);
-        //JavaBasics.Person@1540e19d 没有实现toString方法 返回 类名@hashCode
+        //JDKFeaturesApplication.JavaBasics.Person@1540e19d 没有实现toString方法 返回 类名@hashCode
         Person p = new Person("d");
         s = p.toString();
         System.out.println(s);

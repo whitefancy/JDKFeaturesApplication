@@ -1,7 +1,6 @@
-package JavaBasics;
+package JDKFeaturesApplication.JavaBasics;
 
 import java.util.*;
-import java.util.function.BiFunction;
 
 public class Mapbasic {
     public void test() {

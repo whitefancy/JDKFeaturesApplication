@@ -1,4 +1,4 @@
-package javaconcurrent.cyclicbarrier.threetimesmatch;
+package JDKFeaturesApplication.javaconcurrent.cyclicbarrier.threetimesmatch;
 
 import java.util.concurrent.CyclicBarrier;
 

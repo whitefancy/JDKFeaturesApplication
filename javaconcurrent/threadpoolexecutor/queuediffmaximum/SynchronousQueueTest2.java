@@ -1,4 +1,4 @@
-package javaconcurrent.threadpoolexecutor.queuediffmaximum;
+package JDKFeaturesApplication.javaconcurrent.threadpoolexecutor.queuediffmaximum;
 
 import java.util.concurrent.SynchronousQueue;
 import java.util.concurrent.ThreadPoolExecutor;

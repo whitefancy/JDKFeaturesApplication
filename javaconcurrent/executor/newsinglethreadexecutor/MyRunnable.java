@@ -1,4 +1,4 @@
-package javaconcurrent.executor.newsinglethreadexecutor;
+package JDKFeaturesApplication.javaconcurrent.executor.newsinglethreadexecutor;
 
 /**
  * 无界线程池

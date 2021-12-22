@@ -1,4 +1,4 @@
-package javaconcurrent.countdownlatch.await_timeout;
+package JDKFeaturesApplication.javaconcurrent.countdownlatch.await_timeout;
 
 public class Run {
     public static void main(String[] args) throws InterruptedException {

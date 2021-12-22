@@ -1,4 +1,4 @@
-package javaconcurrent.cyclicbarrier.bigparties;
+package JDKFeaturesApplication.javaconcurrent.cyclicbarrier.bigparties;
 
 import java.util.concurrent.BrokenBarrierException;
 import java.util.concurrent.CyclicBarrier;

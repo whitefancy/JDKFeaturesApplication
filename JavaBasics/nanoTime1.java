@@ -1,4 +1,4 @@
-package JavaBasics;
+package JDKFeaturesApplication.JavaBasics;
 
 public class nanoTime1 {
 //    currentTimeMillis是一个时钟，而nanoTime是一个计时器，你可以用时钟来计算时间差，也可以用来单纯的看时间，但是作为计时器的nanoTime则只能用来计算时间差，好在优点是精确度高

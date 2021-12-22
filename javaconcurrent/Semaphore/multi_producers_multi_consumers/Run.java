@@ -1,4 +1,4 @@
-package javaconcurrent.Semaphore.multi_producers_multi_consumers;
+package JDKFeaturesApplication.javaconcurrent.Semaphore.multi_producers_multi_consumers;
 
 public class Run {
     public static void main(String[] args) {

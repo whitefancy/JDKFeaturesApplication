@@ -1,4 +1,4 @@
-package javaconcurrent.Phaser.arrive2;
+package JDKFeaturesApplication.javaconcurrent.Phaser.arrive2;
 
 public class ThreadB extends Thread {
     private MyService myService;

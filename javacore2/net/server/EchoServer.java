@@ -1,4 +1,4 @@
-package javacore2.net.server;
+package JDKFeaturesApplication.javacore2.net.server;
 
 import java.io.*;
 import java.net.ServerSocket;

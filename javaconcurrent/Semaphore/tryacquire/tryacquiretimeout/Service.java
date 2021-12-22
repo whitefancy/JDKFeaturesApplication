@@ -1,4 +1,4 @@
-package javaconcurrent.Semaphore.tryacquire.tryacquiretimeout;
+package JDKFeaturesApplication.javaconcurrent.Semaphore.tryacquire.tryacquiretimeout;
 
 import java.util.concurrent.Semaphore;
 import java.util.concurrent.TimeUnit;

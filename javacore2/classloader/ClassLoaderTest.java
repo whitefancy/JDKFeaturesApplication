@@ -1,4 +1,4 @@
-package javacore2.classloader;
+package JDKFeaturesApplication.javacore2.classloader;
 
 import javax.swing.*;
 import java.awt.*;

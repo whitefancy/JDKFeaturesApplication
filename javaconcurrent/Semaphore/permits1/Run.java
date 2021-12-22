@@ -1,4 +1,4 @@
-package javaconcurrent.Semaphore.permits1;
+package JDKFeaturesApplication.javaconcurrent.Semaphore.permits1;
 
 public class Run {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package javaconcurrent.Semaphore.tryacquire;
+package JDKFeaturesApplication.javaconcurrent.Semaphore.tryacquire;
 
 public class Run {
     public static void main(String[] args) throws InterruptedException {

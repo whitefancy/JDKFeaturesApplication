@@ -1,4 +1,4 @@
-package javaconcurrent.Semaphore.multi_in_multi_handle_multi_out;
+package JDKFeaturesApplication.javaconcurrent.Semaphore.multi_in_multi_handle_multi_out;
 
 import java.util.concurrent.Semaphore;
 

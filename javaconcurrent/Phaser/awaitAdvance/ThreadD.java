@@ -1,4 +1,4 @@
-package javaconcurrent.Phaser.awaitAdvance;
+package JDKFeaturesApplication.javaconcurrent.Phaser.awaitAdvance;
 
 import java.util.concurrent.Phaser;
 

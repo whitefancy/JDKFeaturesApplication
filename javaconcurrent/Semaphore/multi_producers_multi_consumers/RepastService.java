@@ -1,4 +1,4 @@
-package javaconcurrent.Semaphore.multi_producers_multi_consumers;
+package JDKFeaturesApplication.javaconcurrent.Semaphore.multi_producers_multi_consumers;
 
 import java.util.concurrent.Semaphore;
 import java.util.concurrent.locks.Condition;

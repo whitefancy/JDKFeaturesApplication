@@ -1,4 +1,4 @@
-package javaconcurrent.Semaphore.aquireUniterruptibly;
+package JDKFeaturesApplication.javaconcurrent.Semaphore.aquireUniterruptibly;
 
 public class TheadB extends Thread {
     private Service service;

@@ -1,4 +1,4 @@
-package javaconcurrent.cyclicbarrier.reset;
+package JDKFeaturesApplication.javaconcurrent.cyclicbarrier.reset;
 
 import java.util.concurrent.BrokenBarrierException;
 import java.util.concurrent.CyclicBarrier;

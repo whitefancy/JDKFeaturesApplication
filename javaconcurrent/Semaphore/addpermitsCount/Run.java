@@ -1,4 +1,4 @@
-package javaconcurrent.Semaphore.addpermitsCount;
+package JDKFeaturesApplication.javaconcurrent.Semaphore.addpermitsCount;
 
 
 import java.util.concurrent.Semaphore;

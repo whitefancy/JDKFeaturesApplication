@@ -1,4 +1,4 @@
-package javaconcurrent.cyclicbarrier.threetimesmatch;
+package JDKFeaturesApplication.javaconcurrent.cyclicbarrier.threetimesmatch;
 
 public class MyThread extends Thread {
     private MyService service;

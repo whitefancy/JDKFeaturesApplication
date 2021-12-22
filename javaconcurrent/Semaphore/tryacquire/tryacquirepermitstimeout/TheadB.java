@@ -1,4 +1,4 @@
-package javaconcurrent.Semaphore.tryacquire.tryacquirepermitstimeout;
+package JDKFeaturesApplication.javaconcurrent.Semaphore.tryacquire.tryacquirepermitstimeout;
 
 public class TheadB extends Thread {
     private Service service;

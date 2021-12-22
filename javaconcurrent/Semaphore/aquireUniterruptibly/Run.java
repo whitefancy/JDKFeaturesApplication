@@ -1,4 +1,4 @@
-package javaconcurrent.Semaphore.aquireUniterruptibly;
+package JDKFeaturesApplication.javaconcurrent.Semaphore.aquireUniterruptibly;
 
 public class Run {
     public static void main(String[] args) throws InterruptedException {

@@ -1,4 +1,4 @@
-package javacore.future;
+package JDKFeaturesApplication.javacore.future;
 
 import java.io.File;
 import java.io.FileNotFoundException;

@@ -1,4 +1,4 @@
-package javaconcurrent.Phaser.getphase;
+package JDKFeaturesApplication.javaconcurrent.Phaser.getphase;
 
 import java.util.concurrent.Phaser;
 

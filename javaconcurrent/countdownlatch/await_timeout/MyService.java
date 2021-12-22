@@ -1,4 +1,4 @@
-package javaconcurrent.countdownlatch.await_timeout;
+package JDKFeaturesApplication.javaconcurrent.countdownlatch.await_timeout;
 
 import java.util.concurrent.CountDownLatch;
 import java.util.concurrent.TimeUnit;

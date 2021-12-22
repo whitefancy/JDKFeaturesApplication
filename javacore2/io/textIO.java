@@ -1,4 +1,4 @@
-package javacore2.io;
+package JDKFeaturesApplication.javacore2.io;
 
 import java.io.*;
 import java.nio.charset.StandardCharsets;

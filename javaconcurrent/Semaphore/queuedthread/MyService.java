@@ -1,4 +1,4 @@
-package javaconcurrent.Semaphore.queuedthread;
+package JDKFeaturesApplication.javaconcurrent.Semaphore.queuedthread;
 
 import java.util.concurrent.Semaphore;
 

@@ -1,4 +1,4 @@
-package javaconcurrent.Semaphore.multi_in_single_handle_multi_out;
+package JDKFeaturesApplication.javaconcurrent.Semaphore.multi_in_single_handle_multi_out;
 
 public class Run {
     public static void main(String[] args) {

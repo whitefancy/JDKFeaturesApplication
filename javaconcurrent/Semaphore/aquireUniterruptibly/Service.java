@@ -1,4 +1,4 @@
-package javaconcurrent.Semaphore.aquireUniterruptibly;
+package JDKFeaturesApplication.javaconcurrent.Semaphore.aquireUniterruptibly;
 
 import java.util.concurrent.Semaphore;
 
