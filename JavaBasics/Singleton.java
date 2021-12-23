@@ -10,10 +10,13 @@ public class Singleton {
         }
         return instance;
     }
-    public void test(){
+
+    public static void main(String[] args) {
+
         Singleton s1 = Singleton.getInstance();
         Singleton s2 = Singleton.getInstance();
         Boolean b = s1==s2;//true
         System.out.println(b);
+        s1=s2;//不会出错，因为是引用地址赋值给另一个
     }
 }

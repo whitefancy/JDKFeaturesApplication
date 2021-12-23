@@ -46,7 +46,21 @@ public class volatile1 {
     public void increase(){
         inc++;
     }
+    int inc0=0;
     public void atomicTest(){
+        for(int i =0;i<10;i++){
+            new Thread(){
+                public void run(){
+                    for(int i =0;i<1000;i++){
+                        inc0++;
+                    }
+                }
+            }.start();
+        }
+        while (Thread.activeCount()>1) //保证前面的线程都执行完
+            Thread.yield();
+        System.out.println("baseline: increase count = "+inc0);// inc3=10000
+
         // volatile 不能保证原子性，而synchronized,Lock,AtomicInteger都可以
         for(int i =0;i<10;i++){
             new Thread(){
@@ -101,6 +115,10 @@ public class volatile1 {
             Thread.yield();
         System.out.println("volatile usage: increase count = "+inc);// inc<10000
 
+    }
+
+    public static void main(String[] args) {
+        new volatile1().atomicTest();
     }
 
     int inc1 =0;

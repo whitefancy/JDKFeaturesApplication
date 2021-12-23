@@ -7,6 +7,11 @@ public class StringBuilder1 {
 //    1765 millis has elapsed when used String.
 //    149 millis has elapsed when used StringBuffer.
 //    77 millis has elapsed when used StringBuilder.
+    // 源码分析：StringBuffer和StringBuilder的底层实现基本一直，唯一的区别是StringBuffer的下面的方法加了关键字synchronized
+    // synchronized StringBuffer append(String str)
+    // 两者的底层都是使用数组实现的，关键方法：
+    //数组扩容 Arrays.copyOf(value,newCapacity(minimumCapacity));
+    //数组赋值 System.arraycopy(value, srcBegin, dst, dstBegin, srcEnd - srcBegin);
 
     public void performanceTest() {
         String base ="base string.";
